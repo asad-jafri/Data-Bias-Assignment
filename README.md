@@ -1,6 +1,6 @@
 # Data-Bias-Assignment
 
-# I chose a threshold for this assignment of 0.5. I chose this threshold because being the midway point between the lowest score of 0.0 and the highest score of 1.0, I felt that it would be the most applicable threshold score. The label I chose was examining the "toxic" label in relation to each tweet. I felt this label was the most relevant to the purpose of this assignment.
+# I chose a threshold for this assignment of 0.5. I chose this threshold because being the midway point between the lowest score of 0.0 and the highest score of 1.0, I felt that it would be the most applicable threshold score. The label I chose was examining how many tweets fell under the "toxic" subcategory in relation to each tweet. I felt this label was the most relevant to the purpose of this assignment. The initial dataset of the first 50 values showed that there were 5 "toxic" tweets. This was what I had expected, as they were much higher than the threshold of 0.5 and had very profane/hateful language.
 
 # Before starting the data collection, my hypothesis was that the score given to each tweet would increase by a 3x multiple if the tweet was repeated three times. I thought this would occur because I thought that multiplying the tweet by 3 would, logically, multiply the score. I assumed that the score and tweet string were directly correlated. My "N" was 24. Although it was not a relatively high N value, I felt that it was high enough to give a good indication of how the rest of the dataset would be impacted by the data manipulation. 
 
